@@ -1,51 +1,6 @@
 /*if we want to give style with id name not with tag name then we use #id name*/
-/*if we use class then . is used and class name
-.heading{
-    color:green;
-    text-shadow: 0cqh;
-}
-.name{
-    color: brown;
-}
+/*if we use class then . is used and class name*/
 
-#color{
-    color: aqua;
-}
-button{
-    color: red;
-}*/
-/*#box{
-    border: 1px solid black;
-    height: 200px;
-    width: 100px;
-    color: black;
-    background-color: wheat;
-}
-.dark{
-    background-color: black;
-    color: white;
-}
-
-.light{
-    background-color: white;
-    color: black;
-}
-
-#para{
-    border: 2px solid black;
-    height: 100px;
-    width: 100px;
-    text-align: center;
-}
-.dark{
-    background-color: black;
-    color: white;
-}
-
-.light{
-    background-color: white;
-    color: black;
-}*/
 *{
     margin: 0;
     padding: 0;
